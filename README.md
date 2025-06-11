@@ -1,2 +1,2 @@
 # OxfordRiskApplication
-For the Behavioral Finance and Data Science internship.
+For the Behavioral/Data Science internship.
