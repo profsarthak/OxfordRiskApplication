@@ -7,6 +7,6 @@ Over the past few years, I've built a strong foundation in both data analysis an
 
 I enjoy working where data alone isn't enough, but where behavioural insight can make it meaningful. This task, in particular, affirmed what I enjoy most: translating fragmented signals into compelling narratives - and doing so with curiosity, care and an appreciation for complexity. I'm looking to grow in a team that values that kind of thinking. I believe Oxford Risk to be that kind of environment.
 
-You'll find the main analysis script (both .py and .ipynb) for the data task and exploratory data analysis (EDA), and a PDF file with my insights and takewaways from EDA in this repository. If nothing else, thank you for this opportunity.
+You'll find the main analysis script (both .py and .ipynb) for the data task and exploratory data analysis (EDA), and a PDF file with my insights and takeaways from EDA in this repository. If nothing else, thank you for this opportunity.
 
 Cheers!
