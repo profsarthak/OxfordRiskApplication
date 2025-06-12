@@ -1,5 +1,5 @@
 # OxfordRiskApplication
-For the Behavioral/Data Science internship.
+For the Behavioural/Data Science internship.
 
 In this markdown file, I will talk about myself and why I am interested in this role. I'm excited about this opportunity because it sits at the intersection of behavioural science, data and real-world decision-making, a space I've grown deeply committed to. What drew me to this role wasn't just the technical challenge, but the chance to apply analytical rigor to uncover why people act the way they do, and use those insights to shape better products. The fact that Oxford Risk is building tools to help people make better financial choices throughout life is a mission I strongly align with.
 
